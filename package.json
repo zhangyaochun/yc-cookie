@@ -1,0 +1,22 @@
+{
+  "name": "yc-cookie",
+  "version": "0.0.1",
+  "description": "this is a cookie for yc server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhangyaochun/yc-cookie.git"
+  },
+  "keywords": [
+    "yc",
+    "cookie"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zhangyaochun/yc-cookie/issues"
+  }
+}

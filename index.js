@@ -3,12 +3,7 @@
 //serialize
 exports.serialize = function(name, val, opts) {
 
-    //arguments check
-    if (arguments.length < 2) {
-        console.error('at least two params');
-        return false;
-    }
-
+    //TODO rm arguments check
     opts = opts || {};
 
     var result = [name + '=' + encodeURIComponent(val)];
